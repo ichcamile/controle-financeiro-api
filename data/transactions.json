@@ -1,9 +1,9 @@
 [
   {
-    "id": "tx-import-1789436939639-1",
+    "id": "tx-import-1789437860494-1",
     "date": "2026-01-15",
     "desc": "Cotton On 2/3",
-    "amount": 286.6666667,
+    "amount": 286.67,
     "type": "expense",
     "cat": "Compras",
     "subCat": "",
@@ -13,20 +13,20 @@
     "currentInst": 2
   },
   {
-    "id": "tx-import-1789436939639-2",
-    "date": "2025-03-03",
+    "id": "tx-import-1789437860494-2",
+    "date": "2026-02-15",
     "desc": "Cotton On",
-    "amount": 286.6666667,
+    "amount": 286.67,
     "type": "expense",
     "cat": "Compras",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-02",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 3,
+    "currentInst": 3
   },
   {
-    "id": "tx-import-1789436939639-3",
+    "id": "tx-import-1789437860494-3",
     "date": "2026-01-15",
     "desc": "Sephora 2/2",
     "amount": 218.95,
@@ -39,8 +39,8 @@
     "currentInst": 2
   },
   {
-    "id": "tx-import-1789436939639-4",
-    "date": "2026-02-02",
+    "id": "tx-import-1789437860494-4",
+    "date": "2026-02-15",
     "desc": "Biquini - Calzedonia",
     "amount": 249,
     "type": "expense",
@@ -48,11 +48,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-02",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 2,
+    "currentInst": 2
   },
   {
-    "id": "tx-import-1789436939639-5",
+    "id": "tx-import-1789437860494-5",
     "date": "2026-03-15",
     "desc": "Reserva da Casa",
     "amount": 2821,
@@ -65,7 +65,7 @@
     "currentInst": 2
   },
   {
-    "id": "tx-import-1789436939639-6",
+    "id": "tx-import-1789437860494-6",
     "date": "2026-04-15",
     "desc": "Reserva da Casa",
     "amount": 1500,
@@ -78,7 +78,7 @@
     "currentInst": 3
   },
   {
-    "id": "tx-import-1789436939639-7",
+    "id": "tx-import-1789437860494-7",
     "date": "2026-05-15",
     "desc": "Reserva da Casa",
     "amount": 2000,
@@ -91,7 +91,7 @@
     "currentInst": 4
   },
   {
-    "id": "tx-import-1789436939639-8",
+    "id": "tx-import-1789437860494-8",
     "date": "2026-06-15",
     "desc": "Reserva da Casa",
     "amount": 0,
@@ -104,8 +104,8 @@
     "currentInst": 5
   },
   {
-    "id": "tx-import-1789436939639-9",
-    "date": "2026-07-02",
+    "id": "tx-import-1789437860494-9",
+    "date": "2026-07-15",
     "desc": "Reserva Cirurgia",
     "amount": 4000,
     "type": "expense",
@@ -113,12 +113,12 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-07",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 7,
+    "currentInst": 2
   },
   {
-    "id": "tx-import-1789436939639-10",
-    "date": "2026-04-03",
+    "id": "tx-import-1789437860494-10",
+    "date": "2026-08-15",
     "desc": "Reserva Cirurgia",
     "amount": 3000,
     "type": "expense",
@@ -126,12 +126,12 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-08",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 4,
+    "currentInst": 3
   },
   {
-    "id": "tx-import-1789436939639-11",
-    "date": "2026-04-04",
+    "id": "tx-import-1789437860494-11",
+    "date": "2026-09-15",
     "desc": "Reserva Cirurgia",
     "amount": 4000,
     "type": "expense",
@@ -139,12 +139,12 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-09",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 4,
+    "currentInst": 4
   },
   {
-    "id": "tx-import-1789436939639-12",
-    "date": "2026-03-03",
+    "id": "tx-import-1789437860494-12",
+    "date": "2026-10-15",
     "desc": "MousePad",
     "amount": 70,
     "type": "expense",
@@ -152,14 +152,14 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-10",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 3,
+    "currentInst": 3
   },
   {
-    "id": "tx-import-1789436939639-13",
+    "id": "tx-import-1789437860494-13",
     "date": "2026-01-15",
     "desc": "Authentic Feet - 3/3",
-    "amount": 281.3233333,
+    "amount": 281.32,
     "type": "expense",
     "cat": "Reserva",
     "subCat": "",
@@ -169,8 +169,8 @@
     "currentInst": 3
   },
   {
-    "id": "tx-import-1789436939639-14",
-    "date": "2026-02-02",
+    "id": "tx-import-1789437860494-14",
+    "date": "2026-02-15",
     "desc": "CEA",
     "amount": 284.98,
     "type": "expense",
@@ -178,11 +178,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-02",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 2,
+    "currentInst": 2
   },
   {
-    "id": "tx-import-1789436939639-15",
+    "id": "tx-import-1789437860494-15",
     "date": "2026-03-15",
     "desc": "Reserva Cirurgia",
     "amount": 500,
@@ -195,7 +195,7 @@
     "currentInst": 3
   },
   {
-    "id": "tx-import-1789436939639-16",
+    "id": "tx-import-1789437860494-16",
     "date": "2026-04-15",
     "desc": "Cartão Nubank",
     "amount": 1323.41,
@@ -208,7 +208,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-17",
+    "id": "tx-import-1789437860494-17",
     "date": "2026-05-15",
     "desc": "Reserva Cirurgia",
     "amount": 2500,
@@ -221,8 +221,8 @@
     "currentInst": 3
   },
   {
-    "id": "tx-import-1789436939639-18",
-    "date": "2026-07-01",
+    "id": "tx-import-1789437860494-18",
+    "date": "2026-06-15",
     "desc": "Reserva Cirurgia",
     "amount": 1282,
     "type": "expense",
@@ -230,11 +230,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-06",
-    "installments": 1,
+    "installments": 7,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-19",
+    "id": "tx-import-1789437860494-19",
     "date": "2026-07-15",
     "desc": "Cartão Nubank",
     "amount": 1126.15,
@@ -247,7 +247,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-20",
+    "id": "tx-import-1789437860494-20",
     "date": "2026-08-15",
     "desc": "Cartão Nubank",
     "amount": 1816.5,
@@ -260,7 +260,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-21",
+    "id": "tx-import-1789437860494-21",
     "date": "2026-09-15",
     "desc": "Cartão Nubank",
     "amount": 2465.03,
@@ -273,21 +273,21 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-22",
-    "date": "2026-04-04",
+    "id": "tx-import-1789437860494-22",
+    "date": "2026-10-15",
     "desc": "Celular",
-    "amount": -200,
+    "amount": 200,
     "type": "income",
     "cat": "Outros",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-10",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 4,
+    "currentInst": 4
   },
   {
-    "id": "tx-import-1789436939639-23",
-    "date": "2025-02-01",
+    "id": "tx-import-1789437860494-23",
+    "date": "2026-01-15",
     "desc": "Biquini - Calzedonia",
     "amount": 249,
     "type": "expense",
@@ -295,24 +295,24 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-01",
-    "installments": 1,
+    "installments": 2,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-24",
-    "date": "2026-03-01",
+    "id": "tx-import-1789437860494-24",
+    "date": "2026-02-15",
     "desc": "Compras GOYA",
-    "amount": 251.4133333,
+    "amount": 251.41,
     "type": "expense",
     "cat": "Compras",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-02",
-    "installments": 1,
+    "installments": 3,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-25",
+    "id": "tx-import-1789437860494-25",
     "date": "2026-03-15",
     "desc": "Cartão Nubank",
     "amount": 1075.79,
@@ -325,7 +325,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-26",
+    "id": "tx-import-1789437860494-26",
     "date": "2026-04-15",
     "desc": "Cartão Itaú",
     "amount": 896.03,
@@ -338,7 +338,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-27",
+    "id": "tx-import-1789437860494-27",
     "date": "2026-05-15",
     "desc": "Cartão Nubank",
     "amount": 1534,
@@ -351,7 +351,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-28",
+    "id": "tx-import-1789437860494-28",
     "date": "2026-06-15",
     "desc": "Cartão Nubank",
     "amount": 1147,
@@ -364,7 +364,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-29",
+    "id": "tx-import-1789437860494-29",
     "date": "2026-07-15",
     "desc": "Cartão Itaú",
     "amount": 1593.01,
@@ -377,7 +377,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-30",
+    "id": "tx-import-1789437860494-30",
     "date": "2026-08-15",
     "desc": "Cartão Itaú",
     "amount": 1146.26,
@@ -390,7 +390,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-31",
+    "id": "tx-import-1789437860494-31",
     "date": "2026-09-15",
     "desc": "Cartão Múltiplo - Itaú ",
     "amount": 909.63,
@@ -403,8 +403,8 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-32",
-    "date": "2026-06-01",
+    "id": "tx-import-1789437860494-32",
+    "date": "2026-10-15",
     "desc": "Reserva Casa",
     "amount": 3000,
     "type": "expense",
@@ -412,12 +412,12 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-10",
-    "installments": 1,
+    "installments": 6,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-33",
-    "date": "2025-02-01",
+    "id": "tx-import-1789437860494-33",
+    "date": "2026-01-15",
     "desc": "CEA",
     "amount": 284.98,
     "type": "expense",
@@ -425,11 +425,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-01",
-    "installments": 1,
+    "installments": 2,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-34",
+    "id": "tx-import-1789437860494-34",
     "date": "2026-02-15",
     "desc": "Wellhub - Academia",
     "amount": 128.2,
@@ -442,7 +442,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-35",
+    "id": "tx-import-1789437860494-35",
     "date": "2026-03-15",
     "desc": "Cartão Itaú - Pago",
     "amount": 469.91,
@@ -455,8 +455,8 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-36",
-    "date": "2026-03-03",
+    "id": "tx-import-1789437860494-36",
+    "date": "2026-04-15",
     "desc": "Compras GOYA",
     "amount": 241.74,
     "type": "expense",
@@ -464,11 +464,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-04",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 3,
+    "currentInst": 3
   },
   {
-    "id": "tx-import-1789436939639-37",
+    "id": "tx-import-1789437860494-37",
     "date": "2026-05-15",
     "desc": "Cartão Itaú",
     "amount": 711,
@@ -481,7 +481,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-38",
+    "id": "tx-import-1789437860494-38",
     "date": "2026-06-15",
     "desc": "Cartão Itaú Puro Credito",
     "amount": 1357.38,
@@ -494,8 +494,8 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-39",
-    "date": "2026-06-03",
+    "id": "tx-import-1789437860494-39",
+    "date": "2026-07-15",
     "desc": "Monjas Pt2 ",
     "amount": 590,
     "type": "expense",
@@ -503,11 +503,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-07",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 6,
+    "currentInst": 3
   },
   {
-    "id": "tx-import-1789436939639-40",
+    "id": "tx-import-1789437860494-40",
     "date": "2026-08-15",
     "desc": "Cartão Múltiplo - Itaú ",
     "amount": 283.29,
@@ -520,7 +520,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-41",
+    "id": "tx-import-1789437860494-41",
     "date": "2026-09-15",
     "desc": "Cartão Itaú",
     "amount": 1018.93,
@@ -533,7 +533,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-42",
+    "id": "tx-import-1789437860494-42",
     "date": "2026-10-15",
     "desc": "Reserva de Emergência",
     "amount": 1000,
@@ -546,7 +546,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-43",
+    "id": "tx-import-1789437860494-43",
     "date": "2026-01-15",
     "desc": "Adega Gama",
     "amount": 14,
@@ -559,7 +559,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-44",
+    "id": "tx-import-1789437860494-44",
     "date": "2026-02-15",
     "desc": "Cartão Nubank",
     "amount": 1389.87,
@@ -572,8 +572,8 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-45",
-    "date": "2026-03-02",
+    "id": "tx-import-1789437860494-45",
+    "date": "2026-03-15",
     "desc": "Compras GOYA",
     "amount": 241.74,
     "type": "expense",
@@ -581,11 +581,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-03",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 3,
+    "currentInst": 2
   },
   {
-    "id": "tx-import-1789436939639-46",
+    "id": "tx-import-1789437860494-46",
     "date": "2026-04-15",
     "desc": "Wellhub - Academia",
     "amount": 128.2,
@@ -598,7 +598,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-47",
+    "id": "tx-import-1789437860494-47",
     "date": "2026-05-15",
     "desc": "Wellhub - Academia",
     "amount": 128,
@@ -611,7 +611,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-48",
+    "id": "tx-import-1789437860494-48",
     "date": "2026-06-15",
     "desc": "Cartão Itaú Multiplo",
     "amount": 319.34,
@@ -624,20 +624,20 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-49",
-    "date": "2026-03-03",
+    "id": "tx-import-1789437860494-49",
+    "date": "2026-07-15",
     "desc": "Sephora",
-    "amount": 288.0833333,
+    "amount": 288.08,
     "type": "expense",
     "cat": "Compras",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-07",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 3,
+    "currentInst": 3
   },
   {
-    "id": "tx-import-1789436939639-50",
+    "id": "tx-import-1789437860494-50",
     "date": "2026-08-15",
     "desc": "Limite da Conta",
     "amount": 669.21,
@@ -650,7 +650,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-51",
+    "id": "tx-import-1789437860494-51",
     "date": "2026-09-15",
     "desc": "Wellhub - Academia",
     "amount": 82.9,
@@ -663,7 +663,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-52",
+    "id": "tx-import-1789437860494-52",
     "date": "2026-01-15",
     "desc": "Wellhub - Academia",
     "amount": 128.2,
@@ -676,7 +676,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-53",
+    "id": "tx-import-1789437860494-53",
     "date": "2026-02-15",
     "desc": "Reserva Casa",
     "amount": 2821,
@@ -689,7 +689,7 @@
     "currentInst": 2
   },
   {
-    "id": "tx-import-1789436939639-54",
+    "id": "tx-import-1789437860494-54",
     "date": "2026-03-15",
     "desc": "Wellhub - Academia",
     "amount": 128.2,
@@ -702,10 +702,10 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-55",
+    "id": "tx-import-1789437860494-55",
     "date": "2026-04-15",
     "desc": "Receber Mãe",
-    "amount": -420,
+    "amount": 420,
     "type": "income",
     "cat": "Dividendos",
     "subCat": "",
@@ -715,33 +715,33 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-56",
-    "date": "2026-03-01",
+    "id": "tx-import-1789437860494-56",
+    "date": "2026-05-15",
     "desc": "Sephora",
-    "amount": 288.0833333,
+    "amount": 288.08,
     "type": "expense",
     "cat": "Compras",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-05",
-    "installments": 1,
+    "installments": 3,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-57",
-    "date": "2026-03-03",
+    "id": "tx-import-1789437860494-57",
+    "date": "2026-06-15",
     "desc": "Mounjaro ",
-    "amount": 616.6666667,
+    "amount": 616.67,
     "type": "expense",
     "cat": "Saúde",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-06",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 3,
+    "currentInst": 3
   },
   {
-    "id": "tx-import-1789436939639-58",
+    "id": "tx-import-1789437860494-58",
     "date": "2026-07-15",
     "desc": "Wellhub - Academia",
     "amount": 128.2,
@@ -754,8 +754,8 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-59",
-    "date": "2026-06-04",
+    "id": "tx-import-1789437860494-59",
+    "date": "2026-08-15",
     "desc": "Monjas Pt2 ",
     "amount": 590,
     "type": "expense",
@@ -763,11 +763,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-08",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 6,
+    "currentInst": 4
   },
   {
-    "id": "tx-import-1789436939639-60",
+    "id": "tx-import-1789437860494-60",
     "date": "2026-09-15",
     "desc": "HBO",
     "amount": 30,
@@ -780,7 +780,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-61",
+    "id": "tx-import-1789437860494-61",
     "date": "2026-01-15",
     "desc": "CEA - Presente Rafa",
     "amount": 155.98,
@@ -793,8 +793,8 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-62",
-    "date": "2026-12-02",
+    "id": "tx-import-1789437860494-62",
+    "date": "2026-02-15",
     "desc": "Reserva Cirurgia",
     "amount": 539,
     "type": "expense",
@@ -802,25 +802,25 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-02",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 12,
+    "currentInst": 2
   },
   {
-    "id": "tx-import-1789436939639-63",
-    "date": "2026-03-01",
+    "id": "tx-import-1789437860494-63",
+    "date": "2026-04-15",
     "desc": "Mounjaro ",
-    "amount": 616.6666667,
+    "amount": 616.67,
     "type": "expense",
     "cat": "Saúde",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-04",
-    "installments": 1,
+    "installments": 3,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-64",
-    "date": "2026-03-01",
+    "id": "tx-import-1789437860494-64",
+    "date": "2026-05-15",
     "desc": "Pagar Isabela Cartão",
     "amount": 204,
     "type": "expense",
@@ -828,12 +828,12 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-05",
-    "installments": 1,
+    "installments": 3,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-65",
-    "date": "2026-06-02",
+    "id": "tx-import-1789437860494-65",
+    "date": "2026-06-15",
     "desc": "Monjas Pt2 ",
     "amount": 590,
     "type": "expense",
@@ -841,11 +841,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-06",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 6,
+    "currentInst": 2
   },
   {
-    "id": "tx-import-1789436939639-66",
+    "id": "tx-import-1789437860494-66",
     "date": "2026-07-15",
     "desc": "HBO",
     "amount": 30,
@@ -858,10 +858,10 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-67",
+    "id": "tx-import-1789437860494-67",
     "date": "2026-08-15",
     "desc": "Wellhub - Academia",
-    "amount": 146.225,
+    "amount": 146.22,
     "type": "expense",
     "cat": "Saúde",
     "subCat": "",
@@ -871,8 +871,8 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-68",
-    "date": "2026-03-02",
+    "id": "tx-import-1789437860494-68",
+    "date": "2026-09-15",
     "desc": "MousePad",
     "amount": 70,
     "type": "expense",
@@ -880,11 +880,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-09",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 3,
+    "currentInst": 2
   },
   {
-    "id": "tx-import-1789436939639-69",
+    "id": "tx-import-1789437860494-69",
     "date": "2026-01-15",
     "desc": "Carrefour",
     "amount": 45.02,
@@ -897,8 +897,8 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-70",
-    "date": "2026-01-01",
+    "id": "tx-import-1789437860494-70",
+    "date": "2026-02-15",
     "desc": "Bolsa Cotton ON ",
     "amount": 170,
     "type": "expense",
@@ -910,7 +910,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-71",
+    "id": "tx-import-1789437860494-71",
     "date": "2026-03-15",
     "desc": "Madero ",
     "amount": 455.4,
@@ -923,7 +923,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-72",
+    "id": "tx-import-1789437860494-72",
     "date": "2026-04-15",
     "desc": "Guaco",
     "amount": 70,
@@ -936,10 +936,10 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-73",
+    "id": "tx-import-1789437860494-73",
     "date": "2026-05-15",
     "desc": "Decimo Terceiro",
-    "amount": -3277,
+    "amount": 3277,
     "type": "income",
     "cat": "Ajuda Financeira",
     "subCat": "",
@@ -949,33 +949,33 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-74",
-    "date": "2026-03-02",
+    "id": "tx-import-1789437860494-74",
+    "date": "2026-06-15",
     "desc": "Sephora",
-    "amount": 288.0833333,
+    "amount": 288.08,
     "type": "expense",
     "cat": "Compras",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-06",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 3,
+    "currentInst": 2
   },
   {
-    "id": "tx-import-1789436939639-75",
-    "date": "2026-04-01",
+    "id": "tx-import-1789437860494-75",
+    "date": "2026-07-15",
     "desc": "Celular",
-    "amount": -270,
+    "amount": 270,
     "type": "income",
     "cat": "Dividendos",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-07",
-    "installments": 1,
+    "installments": 4,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-76",
+    "id": "tx-import-1789437860494-76",
     "date": "2026-08-15",
     "desc": "HBO",
     "amount": 30,
@@ -988,8 +988,8 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-77",
-    "date": "2026-03-01",
+    "id": "tx-import-1789437860494-77",
+    "date": "2026-09-15",
     "desc": "Airbnb",
     "amount": 265,
     "type": "expense",
@@ -997,12 +997,12 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-09",
-    "installments": 1,
+    "installments": 3,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-78",
-    "date": "2026-06-06",
+    "id": "tx-import-1789437860494-78",
+    "date": "2026-10-15",
     "desc": "Monjas Pt2 ",
     "amount": 590,
     "type": "expense",
@@ -1010,11 +1010,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-10",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 6,
+    "currentInst": 6
   },
   {
-    "id": "tx-import-1789436939639-79",
+    "id": "tx-import-1789437860494-79",
     "date": "2026-01-15",
     "desc": "Cartão Nubank - Antes fechamento",
     "amount": 900.8,
@@ -1027,7 +1027,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-80",
+    "id": "tx-import-1789437860494-80",
     "date": "2026-02-15",
     "desc": "Le Brouchet",
     "amount": 300.58,
@@ -1040,7 +1040,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-81",
+    "id": "tx-import-1789437860494-81",
     "date": "2026-04-15",
     "desc": "Presente Isaac",
     "amount": 127.2,
@@ -1053,10 +1053,10 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-82",
+    "id": "tx-import-1789437860494-82",
     "date": "2026-05-15",
     "desc": "Receber da Mãe",
-    "amount": -259,
+    "amount": 259,
     "type": "income",
     "cat": "Dividendos",
     "subCat": "",
@@ -1066,7 +1066,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-83",
+    "id": "tx-import-1789437860494-83",
     "date": "2026-06-15",
     "desc": "Wellhub - Academia",
     "amount": 128.2,
@@ -1079,10 +1079,10 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-84",
+    "id": "tx-import-1789437860494-84",
     "date": "2026-07-15",
     "desc": "vitor",
-    "amount": -200,
+    "amount": 200,
     "type": "income",
     "cat": "Outros",
     "subCat": "",
@@ -1092,21 +1092,21 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-85",
-    "date": "2026-04-04",
+    "id": "tx-import-1789437860494-85",
+    "date": "2026-08-15",
     "desc": "Celular",
-    "amount": -200,
+    "amount": 200,
     "type": "income",
     "cat": "Dividendos",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-08",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 4,
+    "currentInst": 4
   },
   {
-    "id": "tx-import-1789436939639-86",
-    "date": "2026-06-05",
+    "id": "tx-import-1789437860494-86",
+    "date": "2026-09-15",
     "desc": "Monjas Pt2 ",
     "amount": 590,
     "type": "expense",
@@ -1114,11 +1114,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-09",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 6,
+    "currentInst": 5
   },
   {
-    "id": "tx-import-1789436939639-87",
+    "id": "tx-import-1789437860494-87",
     "date": "2026-10-15",
     "desc": "Wellhub - Academia",
     "amount": 82.9,
@@ -1131,7 +1131,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-88",
+    "id": "tx-import-1789437860494-88",
     "date": "2026-09-15",
     "desc": " Braseiro da Gavea",
     "amount": 216.72,
@@ -1144,7 +1144,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-89",
+    "id": "tx-import-1789437860494-89",
     "date": "2026-01-15",
     "desc": "Reserva da Casa",
     "amount": 1500,
@@ -1157,7 +1157,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-90",
+    "id": "tx-import-1789437860494-90",
     "date": "2026-02-15",
     "desc": "Madero",
     "amount": 220,
@@ -1170,7 +1170,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-91",
+    "id": "tx-import-1789437860494-91",
     "date": "2026-04-15",
     "desc": "Pijamas",
     "amount": 127.2,
@@ -1183,10 +1183,10 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-92",
+    "id": "tx-import-1789437860494-92",
     "date": "2026-05-15",
     "desc": "Receber Isabela",
-    "amount": -414.56,
+    "amount": 414.56,
     "type": "income",
     "cat": "Dividendos",
     "subCat": "",
@@ -1196,7 +1196,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-93",
+    "id": "tx-import-1789437860494-93",
     "date": "2026-06-15",
     "desc": "HBO",
     "amount": 30,
@@ -1209,8 +1209,8 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-94",
-    "date": "2026-03-01",
+    "id": "tx-import-1789437860494-94",
+    "date": "2026-08-15",
     "desc": "MousePad",
     "amount": 70,
     "type": "expense",
@@ -1218,14 +1218,14 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-08",
-    "installments": 1,
+    "installments": 3,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-95",
+    "id": "tx-import-1789437860494-95",
     "date": "2026-09-15",
     "desc": "Uso Cartão 1x",
-    "amount": -483.14,
+    "amount": 483.14,
     "type": "income",
     "cat": "Vitor > Receber",
     "subCat": "",
@@ -1235,8 +1235,8 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-96",
-    "date": "2026-03-03",
+    "id": "tx-import-1789437860494-96",
+    "date": "2026-10-15",
     "desc": "MousePad",
     "amount": 70,
     "type": "expense",
@@ -1244,11 +1244,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-10",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 3,
+    "currentInst": 3
   },
   {
-    "id": "tx-import-1789436939639-97",
+    "id": "tx-import-1789437860494-97",
     "date": "2026-01-15",
     "desc": "LIS Itaú",
     "amount": 236.87,
@@ -1261,7 +1261,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-98",
+    "id": "tx-import-1789437860494-98",
     "date": "2026-02-15",
     "desc": "Gympass Bia ",
     "amount": 60,
@@ -1274,8 +1274,8 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-99",
-    "date": "2026-02-01",
+    "id": "tx-import-1789437860494-99",
+    "date": "2026-04-15",
     "desc": "Cinema",
     "amount": 140,
     "type": "expense",
@@ -1283,14 +1283,14 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-04",
-    "installments": 1,
+    "installments": 2,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-100",
+    "id": "tx-import-1789437860494-100",
     "date": "2026-05-15",
     "desc": "Receber do Vitor",
-    "amount": -60,
+    "amount": 60,
     "type": "income",
     "cat": "Dividendos",
     "subCat": "",
@@ -1300,21 +1300,21 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-101",
-    "date": "2026-02-01",
+    "id": "tx-import-1789437860494-101",
+    "date": "2026-06-15",
     "desc": "Receber do Vitor",
-    "amount": -170,
+    "amount": 170,
     "type": "income",
     "cat": "Saúde",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-06",
-    "installments": 1,
+    "installments": 2,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-102",
-    "date": "2026-03-01",
+    "id": "tx-import-1789437860494-102",
+    "date": "2026-08-15",
     "desc": "Airbnb",
     "amount": 265,
     "type": "expense",
@@ -1322,24 +1322,24 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-08",
-    "installments": 1,
+    "installments": 3,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-103",
-    "date": "2026-06-01",
+    "id": "tx-import-1789437860494-103",
+    "date": "2026-09-15",
     "desc": "Rock In Rio - Vitor",
-    "amount": -72.5,
+    "amount": 72.5,
     "type": "income",
     "cat": "Vitor > Receber",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-09",
-    "installments": 1,
+    "installments": 6,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-104",
+    "id": "tx-import-1789437860494-104",
     "date": "2026-01-15",
     "desc": "Emprestimo Nubank",
     "amount": 675.16,
@@ -1352,10 +1352,10 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-105",
+    "id": "tx-import-1789437860494-105",
     "date": "2026-02-15",
     "desc": "PLR",
-    "amount": -8457.8,
+    "amount": 8457.8,
     "type": "income",
     "cat": "Ajuda Financeira",
     "subCat": "",
@@ -1365,10 +1365,10 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-106",
+    "id": "tx-import-1789437860494-106",
     "date": "2026-04-15",
     "desc": "Reembolso Convênio",
-    "amount": -135.34,
+    "amount": 135.34,
     "type": "income",
     "cat": "Compras",
     "subCat": "",
@@ -1378,7 +1378,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-107",
+    "id": "tx-import-1789437860494-107",
     "date": "2026-05-15",
     "desc": "Pagar Conta LIS",
     "amount": 109,
@@ -1391,7 +1391,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-108",
+    "id": "tx-import-1789437860494-108",
     "date": "2026-06-15",
     "desc": "Pagar Limite da Conta",
     "amount": 160.06,
@@ -1404,36 +1404,36 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-109",
-    "date": "2026-02-01",
+    "id": "tx-import-1789437860494-109",
+    "date": "2026-08-15",
     "desc": "Receber do Vitor - Transporte",
-    "amount": -129.2,
+    "amount": 129.2,
     "type": "income",
     "cat": "Compras",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-08",
-    "installments": 1,
+    "installments": 2,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-110",
-    "date": "2026-02-01",
+    "id": "tx-import-1789437860494-110",
+    "date": "2026-09-15",
     "desc": "Receber do Vitor - Transporte",
-    "amount": -129.2,
+    "amount": 129.2,
     "type": "income",
     "cat": "Vitor > Receber",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-09",
-    "installments": 1,
+    "installments": 2,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-111",
+    "id": "tx-import-1789437860494-111",
     "date": "2026-01-15",
     "desc": "Receber Vitor",
-    "amount": -630,
+    "amount": 630,
     "type": "income",
     "cat": "Reserva",
     "subCat": "",
@@ -1443,7 +1443,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-112",
+    "id": "tx-import-1789437860494-112",
     "date": "2026-03-15",
     "desc": "Consulta Nutrologa",
     "amount": 300,
@@ -1456,7 +1456,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-113",
+    "id": "tx-import-1789437860494-113",
     "date": "2026-04-15",
     "desc": "HBO ",
     "amount": 30,
@@ -1469,8 +1469,8 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-114",
-    "date": "2026-06-01",
+    "id": "tx-import-1789437860494-114",
+    "date": "2026-05-15",
     "desc": "Monjas Pt2 ",
     "amount": 590,
     "type": "expense",
@@ -1478,27 +1478,27 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-05",
-    "installments": 1,
+    "installments": 6,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-115",
-    "date": "2026-02-01",
+    "id": "tx-import-1789437860494-115",
+    "date": "2026-06-15",
     "desc": "Retirar Dinheiro Livre do Cartão",
-    "amount": -811.23,
+    "amount": 811.23,
     "type": "income",
     "cat": "Saúde",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-06",
-    "installments": 1,
+    "installments": 2,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-116",
+    "id": "tx-import-1789437860494-116",
     "date": "2026-09-15",
     "desc": "Receber Vitor - Cirurgia ",
-    "amount": -1600,
+    "amount": 1600,
     "type": "income",
     "cat": "Outros",
     "subCat": "",
@@ -1508,7 +1508,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-117",
+    "id": "tx-import-1789437860494-117",
     "date": "2026-01-15",
     "desc": "Restante Ingresso A7X",
     "amount": 150,
@@ -1521,21 +1521,21 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-118",
-    "date": "2026-03-02",
+    "id": "tx-import-1789437860494-118",
+    "date": "2026-05-15",
     "desc": "Mounjaro ",
-    "amount": 616.6666667,
+    "amount": 616.67,
     "type": "expense",
     "cat": "Saúde",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-05",
-    "installments": 1,
-    "currentInst": 1
+    "installments": 3,
+    "currentInst": 2
   },
   {
-    "id": "tx-import-1789436939639-119",
-    "date": "2026-02-01",
+    "id": "tx-import-1789437860494-119",
+    "date": "2026-06-15",
     "desc": "Kindle",
     "amount": 150,
     "type": "expense",
@@ -1543,11 +1543,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-06",
-    "installments": 1,
+    "installments": 2,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-120",
+    "id": "tx-import-1789437860494-120",
     "date": "2026-01-15",
     "desc": "Compras do Sítio ",
     "amount": 145.36,
@@ -1560,7 +1560,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-121",
+    "id": "tx-import-1789437860494-121",
     "date": "2026-05-15",
     "desc": "Cinema ",
     "amount": 140,
@@ -1573,23 +1573,23 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-122",
-    "date": "2026-02-01",
+    "id": "tx-import-1789437860494-122",
+    "date": "2026-06-15",
     "desc": "Receber da Isabela ",
-    "amount": -200,
+    "amount": 200,
     "type": "income",
     "cat": "Saúde",
     "subCat": "",
     "method": "credit",
     "cycle": "2026-06",
-    "installments": 1,
+    "installments": 2,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-123",
+    "id": "tx-import-1789437860494-123",
     "date": "2026-09-15",
     "desc": "PLR ",
-    "amount": -14819.24,
+    "amount": 14819.24,
     "type": "income",
     "cat": "Outros",
     "subCat": "",
@@ -1599,7 +1599,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-124",
+    "id": "tx-import-1789437860494-124",
     "date": "2026-01-15",
     "desc": "Remédios ",
     "amount": 180,
@@ -1612,7 +1612,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-125",
+    "id": "tx-import-1789437860494-125",
     "date": "2026-05-15",
     "desc": "HBO",
     "amount": 30,
@@ -1625,7 +1625,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-126",
+    "id": "tx-import-1789437860494-126",
     "date": "2026-01-15",
     "desc": "Burger King",
     "amount": 42.4,
@@ -1638,10 +1638,10 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-127",
+    "id": "tx-import-1789437860494-127",
     "date": "2026-01-15",
     "desc": "Receber Isabela ",
-    "amount": -49,
+    "amount": 49,
     "type": "income",
     "cat": "Reserva",
     "subCat": "",
@@ -1651,7 +1651,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-128",
+    "id": "tx-import-1789437860494-128",
     "date": "2026-02-15",
     "desc": "Ingresso Lollapalooza",
     "amount": 1145,
@@ -1664,7 +1664,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-129",
+    "id": "tx-import-1789437860494-129",
     "date": "2026-02-15",
     "desc": "Carrinho da Shoppe - Organizadores",
     "amount": 200,
@@ -1677,7 +1677,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-130",
+    "id": "tx-import-1789437860494-130",
     "date": "2026-02-15",
     "desc": "Compras Cotton On",
     "amount": 2000,
@@ -1690,7 +1690,7 @@
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-131",
+    "id": "tx-import-1789437860494-131",
     "date": "2026-02-15",
     "desc": "Duo Glicólico + Tranexâmico",
     "amount": 170,
@@ -1699,11 +1699,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-02",
-    "installments": 1,
+    "installments": 85,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-132",
+    "id": "tx-import-1789437860494-132",
     "date": "2026-02-15",
     "desc": "Carinho Amazon",
     "amount": 279.88,
@@ -1712,11 +1712,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-02",
-    "installments": 1,
+    "installments": 93.29333333,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-133",
+    "id": "tx-import-1789437860494-133",
     "date": "2026-02-15",
     "desc": "Protetor Solar",
     "amount": 114.9,
@@ -1725,11 +1725,11 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-02",
-    "installments": 1,
+    "installments": 57.45,
     "currentInst": 1
   },
   {
-    "id": "tx-import-1789436939639-134",
+    "id": "tx-import-1789437860494-134",
     "date": "2026-02-15",
     "desc": "Bioré",
     "amount": 60,
@@ -1738,7 +1738,7 @@
     "subCat": "",
     "method": "credit",
     "cycle": "2026-02",
-    "installments": 1,
+    "installments": 30,
     "currentInst": 1
   }
 ]
