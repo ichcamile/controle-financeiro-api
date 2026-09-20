@@ -1,0 +1,7 @@
+node_modules
+*.csv
+*.xlsx
+*.sql
+*.md
+out.txt
+vite*.txt
